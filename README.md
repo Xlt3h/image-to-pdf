@@ -1,6 +1,6 @@
 # image-to-pdf
 
-<p>convert images to pdf you select multiple if you want ;) </p>
+<p>convert images to pdf you can select multiple if you want ;) </p>
 
 #converting function
 
