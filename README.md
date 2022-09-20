@@ -4,7 +4,7 @@
 
 #converting function
 
-```
+```python
 def img_pdf(filename,output):
     images = []
     for file in filename:
